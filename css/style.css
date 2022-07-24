@@ -791,6 +791,7 @@ img {
 
 .top__card-pic {
     position: relative;
+    margin-bottom: 45px;
 }
 
 .top__card-stats {
@@ -839,5 +840,21 @@ img {
     background: url(../img/svg/comment-ico.svg) no-repeat right;
 }
 
+.top__card-desc {
+    font-size: 16px;
+    line-height: 24px;
+    margin-bottom: 31px;
+}
 
+.top__card-more {
+    padding: 12px 19px;
+    background: #006DFE;
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+}
+
+.top__card-more:hover, .top__card-more:focus, .top__card-more:active {
+    background: rgb(32, 106, 202);
+}
 /*Top places style end */
