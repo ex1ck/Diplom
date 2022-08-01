@@ -399,7 +399,6 @@ html {
     scroll-behavior: smooth; 
 }
 
-
 *, *::before, *::after {
     box-sizing: inherit;
 }
@@ -450,7 +449,6 @@ img {
 }
 
 /* header styles start */
-
 .header {
     position: fixed;
     top: 0;
@@ -463,7 +461,6 @@ img {
 
 .header_active {
     background: #0E1D28;
-
 }
 
 .header__wrapper {
@@ -497,11 +494,9 @@ img {
 .header__link:hover, .header__link:focus, .header__link:active {
     opacity: .75;
 }
-
 /* header styles end */
 
 /* intro styles start */
-
 .intro {
     min-height: 100vh;
     background: url(../img/intro-bg.jpg) no-repeat center;
@@ -565,11 +560,9 @@ img {
 .search-form__submit:hover, .search-form__submit:focus, .search-form__submit:active {
     background: #206aca;
 }
-
 /* intro styles enf */
 
 /* benefits style start */
-
 .benefits {
     margin-bottom: 131px;
 }
@@ -646,7 +639,6 @@ img {
 /* benefits style end */
 
 /* Places style start */
-
 .places {
     margin-bottom: 131px;
 }
@@ -743,11 +735,9 @@ img {
     height: 100%;
     z-index: 4;
 }
-
 /* Places style end */
 
 /* Tours style start */
-
 .tours {
     margin-bottom: 139px;
 }
@@ -788,11 +778,9 @@ img {
 .tour__more:hover, .tour__more:focus {
     opacity: .65;
 }
-
 /*Tours style end */
 
 /*Top places style start */
-
 .top {
     margin-bottom: 86px;
 }
@@ -879,7 +867,6 @@ img {
 /*Top places style end */
 
 /* Videos styles strat */
-
 .videos {
     width: 100%;
 }
@@ -901,11 +888,9 @@ img {
     width: 100%;
     height: 100%;
 }
-
 /* Videos styles end */
 
 /* Footer styles strat */
-
 .footer {
     background: #0E1D28;
     padding: 119px 0;
@@ -945,6 +930,4 @@ img {
 .footer__menu-link:hover, .footer__menu-link:focus, .footer__menu-link:active {
     opacity: .75;
 }
-
-
 /* Footer styles end */
